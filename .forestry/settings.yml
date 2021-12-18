@@ -16,11 +16,9 @@ sections:
   match: "**/*"
   templates:
   - post
-- type: heading
-  label: Data
 - type: directory
   path: content/authors
-  label: Authors
+  label: Sobre Elpibegeek
   create: all
   match: "**/_index.md"
   templates:
